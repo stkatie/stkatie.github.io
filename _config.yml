@@ -1,7 +1,7 @@
 # Site settings
 title: Katie St. Clair
-email: your-email@domain.com
-url: https://example.github.io
+email: stkatie@yahoo.com
+url: http://www.katiestclair.art
 description: "Stories are held in the landscape"
 
 # Color settings (hex-codes without the leading hash-tag)
@@ -10,21 +10,29 @@ color:
   links: '#219ab3'
 
 # Footer settings
-footer: Your Website
+footer: Katie St. Clair
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-  - title: twitter
-    url: https://twitter.com/SBootstrap
+#  - title: twitter
+#    url: https://twitter.com/SBootstrap
   - title: facebook
-    url:
-  - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
-  - title: bitbucket
-    url: http://bitbucket.org/jekyll
-  - title: github
-    url: https://github.com/IronSummitMedia/startbootstrap
+    url: https://www.facebook.com/katie.s.clair.3
+  - title: youtube
+    url: https://youtu.be/T9Qp_KThm88
+  - title: tumblr
+    url: http://stkatie.tumblr.com/
+#  - title: stack-overflow
+#    url: http://stackoverflow.com/questions/tagged/jekyll
+#  - title: bitbucket
+#    url: http://bitbucket.org/jekyll
+#  - title: github
+#    url: https://github.com/IronSummitMedia/startbootstrap
 
+# Build settings
+markdown: kramdown
+permalink: pretty
 # Build settings
 markdown: kramdown
 permalink: pretty

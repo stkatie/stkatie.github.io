@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<juiceboxgallery 
+
+	resizeOnImport="false"
+	galleryTitle="2015"
+	useFullscreenExpand="true"
+
+>
+  <image imageURL="images/tumblr_o2ux30fj5e1rle47qo1_1280.jpg"
+	thumbURL="thumbs/tumblr_o2ux30fj5e1rle47qo1_1280.jpg"
+	linkURL="images/tumblr_o2ux30fj5e1rle47qo1_1280.jpg"
+	linkTarget="_blank"
+	sourcePath="/home/dasd/katiestclair/img/gallery/tumblr_o2ux30fj5e1rle47qo1_1280.jpg">
+    <title><![CDATA[Turlough.]]></title>
+    <caption><![CDATA[ 2015, Acrylic, collage and an assortment of experimental techniques with dye, loose pigment, graphite, spray paint, gesso and rice paper on canvas, 72"X 108".  ]]></caption>
+  </image>
+  <image imageURL="images/tumblr_o2ux11bsoC1rle47qo1_r1_1280.jpg"
+	thumbURL="thumbs/tumblr_o2ux11bsoC1rle47qo1_r1_1280.jpg"
+	linkURL="images/tumblr_o2ux11bsoC1rle47qo1_r1_1280.jpg"
+	linkTarget="_blank"
+	sourcePath="/home/dasd/katiestclair/img/gallery/tumblr_o2ux11bsoC1rle47qo1_r1_1280.png">
+    <title><![CDATA[Torrent]]></title>
+    <caption><![CDATA[ 2015, Acrylic, collage and an assortment of experimental techniques with dye, loose pigment, graphite, spray paint, gesso and rice paper on canvas, 72"X72”. ]]></caption>
+  </image>
+</juiceboxgallery>
