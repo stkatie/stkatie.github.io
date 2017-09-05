@@ -4,6 +4,7 @@
 
 	galleryTitle="2014"
 	useFullscreenExpand="true"
+	resizeOnImport="false"
 
 >
   <image imageURL="images/tumblr_neh44zFzFm1rle47qo1_1280.jpg"
