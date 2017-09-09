@@ -5,6 +5,8 @@
 	galleryTitle="2014"
 	useFullscreenExpand="true"
 	resizeOnImport="false"
+	textColor="rgba(255,255,255,1)"
+	backgroundColor="rgba(255,255,255,1)"
 
 >
   <image imageURL="images/tumblr_neh44zFzFm1rle47qo1_1280.jpg"
