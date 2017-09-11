@@ -15,7 +15,7 @@ body {
     font-family: Lora,"Helvetica Neue",Helvetica,Arial,sans-serif;
     color: #fff;
     /*background-color: #000000;*/
-    background-color: #4C516D;
+    background-color: #000000;
 }
 
 html {
@@ -264,7 +264,7 @@ a:focus {
     padding: 50px 0;
     color: #fff;
     /* background: url(/img/downloads-bg.jpg) no-repeat center center scroll; */
-    background-color: #4C516D;
+    background-color: #000000;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
