@@ -6,15 +6,16 @@
 	useFullscreenExpand="true"
 	resizeOnImport="false"
 	textColor="rgba(255,255,255,1)"
-	backgroundColor="rgba(255,255,255,1)"
+	backgroundColor="rgba(153,153,153,1)"
+	useThumbDots="false"
 
 >
   <image imageURL="images/tumblr_neh44zFzFm1rle47qo1_1280.jpg"
 	thumbURL="thumbs/tumblr_neh44zFzFm1rle47qo1_1280.jpg"
-	linkURL="images/tumblr_neh44zFzFm1rle47qo1_1280.jpg"
+	linkURL="images/tumblr_neh44zFzFm1rle47qo1_1280.png"
 	linkTarget="_blank"
-	sourcePath="/home/dasd/katiestclair/img/gallery/tumblr_neh44zFzFm1rle47qo1_1280.jpg">
-    <title><![CDATA[Waterlogged Series.]]></title>
+	sourcePath="/home/dasd/katiestclair/img/juicebox/gallery2014/images/tumblr_neh44zFzFm1rle47qo1_1280.png">
+    <title><![CDATA[Waterlogged Series]]></title>
     <caption><![CDATA[2014, Acrylic, collage and an assortment of experimental techniques with dye, loose pigment, spray paint, gesso and rice paper on canvas stretched over wood, 36” round.]]></caption>
   </image>
   <image imageURL="images/tumblr_neh44zFzFm1rle47qo2_1280.jpg"
@@ -22,7 +23,7 @@
 	linkURL="images/tumblr_neh44zFzFm1rle47qo2_1280.jpg"
 	linkTarget="_blank"
 	sourcePath="/home/dasd/katiestclair/img/gallery/tumblr_neh44zFzFm1rle47qo2_1280.jpg">
-    <title><![CDATA[Waterlogged Series.]]></title>
+    <title><![CDATA[Waterlogged Series]]></title>
     <caption><![CDATA[2014, Acrylic, collage and an assortment of experimental techniques with dye, loose pigment, spray paint, gesso and rice paper on canvas stretched over wood, 36” round.]]></caption>
   </image>
   <image imageURL="images/tumblr_neh44zFzFm1rle47qo3_r1_1280.jpg"
@@ -30,15 +31,31 @@
 	linkURL="images/tumblr_neh44zFzFm1rle47qo3_r1_1280.jpg"
 	linkTarget="_blank"
 	sourcePath="/home/dasd/katiestclair/img/gallery/tumblr_neh44zFzFm1rle47qo3_r1_1280.jpg">
-    <title><![CDATA[Waterlogged Series.]]></title>
+    <title><![CDATA[Waterlogged Series]]></title>
+    <caption><![CDATA[2014, Acrylic, collage and an assortment of experimental techniques with dye, loose pigment, spray paint, gesso and rice paper on canvas stretched over wood, 36” round.]]></caption>
+  </image>
+  <image imageURL="images/tumblr_o2uungxtZL1rle47qo1_1280.jpg"
+	thumbURL="thumbs/tumblr_o2uungxtZL1rle47qo1_1280.jpg"
+	linkURL="images/tumblr_o2uungxtZL1rle47qo1_1280.png"
+	linkTarget="_blank"
+	sourcePath="/home/dasd/katiestclair/img/juicebox/gallery2014/images/tumblr_o2uungxtZL1rle47qo1_1280.png">
+    <title><![CDATA[Waterlogged Series]]></title>
+    <caption><![CDATA[2014, Acrylic, collage and an assortment of experimental techniques with dye, loose pigment, spray paint, gesso and rice paper on canvas stretched over wood, 36” round.]]></caption>
+  </image>
+  <image imageURL="images/tumblr_o2uungxtZL1rle47qo2_1280.jpg"
+	thumbURL="thumbs/tumblr_o2uungxtZL1rle47qo2_1280.jpg"
+	linkURL="images/tumblr_o2uungxtZL1rle47qo2_1280.png"
+	linkTarget="_blank"
+	sourcePath="/home/dasd/katiestclair/img/juicebox/gallery2014/images/tumblr_o2uungxtZL1rle47qo2_1280.png">
+    <title><![CDATA[Waterlogged Series]]></title>
     <caption><![CDATA[2014, Acrylic, collage and an assortment of experimental techniques with dye, loose pigment, spray paint, gesso and rice paper on canvas stretched over wood, 36” round.]]></caption>
   </image>
   <image imageURL="images/tumblr_o2uwja2ZjN1rle47qo1_1280.jpg"
 	thumbURL="thumbs/tumblr_o2uwja2ZjN1rle47qo1_1280.jpg"
-	linkURL="images/tumblr_o2uwja2ZjN1rle47qo1_1280.jpg"
+	linkURL="images/tumblr_o2uwja2ZjN1rle47qo1_1280.png"
 	linkTarget="_blank"
-	sourcePath="/home/dasd/katiestclair/img/gallery/tumblr_o2uwja2ZjN1rle47qo1_1280.jpg">
-    <title><![CDATA[Thicket.]]></title>
+	sourcePath="/home/dasd/katiestclair/img/juicebox/gallery2014/images/tumblr_o2uwja2ZjN1rle47qo1_1280.png">
+    <title><![CDATA[Thicket]]></title>
     <caption><![CDATA[2014, Acrylic, photo collage, spray paint, gesso and rice paper on wooden panels, 16”x 48”.]]></caption>
   </image>
   <image imageURL="images/tumblr_o2uwja2ZjN1rle47qo2_1280.jpg"
@@ -46,7 +63,7 @@
 	linkURL="images/tumblr_o2uwja2ZjN1rle47qo2_1280.jpg"
 	linkTarget="_blank"
 	sourcePath="/home/dasd/katiestclair/img/gallery/tumblr_o2uwja2ZjN1rle47qo2_1280.jpg">
-    <title><![CDATA[Thicket.]]></title>
+    <title><![CDATA[Thicket]]></title>
     <caption><![CDATA[2014, Acrylic, photo collage, spray paint, gesso and rice paper on wooden panels, 16”x 48”.]]></caption>
   </image>
   <image imageURL="images/tumblr_neh4384TxG1rle47qo1_1280.jpg"
@@ -88,22 +105,6 @@
 	sourcePath="/home/dasd/katiestclair/img/gallery/tumblr_neh4384TxG1rle47qo7_1280.jpg">
     <title><![CDATA[Time based installation paintings]]></title>
     <caption><![CDATA[My time based installation paintings use material I have collected from the roadside and marginal places. Objects with other lives like a Styrofoam cup brittle with age, a cigarette filter once pressed to someone’s lips, fallen branches and leaves from a year past. These objects are held in transition as their original use and value disintegrates.]]></caption>
-  </image>
-  <image imageURL="images/tumblr_o2uungxtZL1rle47qo1_1280.jpg"
-	thumbURL="thumbs/tumblr_o2uungxtZL1rle47qo1_1280.jpg"
-	linkURL="images/tumblr_o2uungxtZL1rle47qo1_1280.jpg"
-	linkTarget="_blank"
-	sourcePath="/home/dasd/katiestclair/img/gallery/tumblr_o2uungxtZL1rle47qo1_1280.jpg">
-    <title><![CDATA[Waterlogged Series.]]></title>
-    <caption><![CDATA[Waterlogged Series. 2014, Acrylic, collage and an assortment of experimental techniques with dye, loose pigment, spray paint, gesso and rice paper on canvas stretched over wood, 36” round.]]></caption>
-  </image>
-  <image imageURL="images/tumblr_o2uungxtZL1rle47qo2_1280.jpg"
-	thumbURL="thumbs/tumblr_o2uungxtZL1rle47qo2_1280.jpg"
-	linkURL="images/tumblr_o2uungxtZL1rle47qo2_1280.jpg"
-	linkTarget="_blank"
-	sourcePath="/home/dasd/katiestclair/img/gallery/tumblr_o2uungxtZL1rle47qo2_1280.jpg">
-    <title><![CDATA[Waterlogged Series.]]></title>
-    <caption><![CDATA[ 2014, Acrylic, collage and an assortment of experimental techniques with dye, loose pigment, spray paint, gesso and rice paper on canvas stretched over wood, 36” round.]]></caption>
   </image>
   <image imageURL="images/tumblr_nefnv3CaYr1rle47qo1_1280.jpg"
 	thumbURL="thumbs/tumblr_nefnv3CaYr1rle47qo1_1280.jpg"
