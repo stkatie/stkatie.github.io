@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<juiceboxgallery 
+
+	resizeOnImport="false"
+	useFullscreenExpand="true"
+	galleryTitle="Gallery 2009"
+
+>
+  <image imageURL="images/tumblr_mdweibdaLp1rle47qo1_r1_1280.jpg"
+	thumbURL="thumbs/tumblr_mdweibdaLp1rle47qo1_r1_1280.jpg"
+	linkURL="images/tumblr_mdweibdaLp1rle47qo1_r1_1280.jpg"
+	linkTarget="_blank"
+	sourcePath="/home/dasd/katiestclair/img/gallery/2009/tumblr_mdweibdaLp1rle47qo1_r1_1280.jpg">
+    <title><![CDATA[Red lilly]]></title>
+    <caption><![CDATA[Acrylic and photo collage on paper 8.5"x11.25"]]></caption>
+  </image>
+  <image imageURL="images/tumblr_mdwe23iki71rle47qo1_r1_1280.jpg"
+	thumbURL="thumbs/tumblr_mdwe23iki71rle47qo1_r1_1280.jpg"
+	linkURL="images/tumblr_mdwe23iki71rle47qo1_r1_1280.jpg"
+	linkTarget="_blank"
+	sourcePath="/home/dasd/katiestclair/img/gallery/2009/tumblr_mdwe23iki71rle47qo1_r1_1280.jpg">
+    <title><![CDATA[Tuber]]></title>
+    <caption><![CDATA[Acrylic and photo collage on board 48"x40"]]></caption>
+  </image>
+</juiceboxgallery>

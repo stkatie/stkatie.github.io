@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<juiceboxgallery 
+
+	resizeOnImport="false"
+	galleryTitle="2007"
+	useFullscreenExpand="true"
+
+>
+  <image imageURL="images/tumblr_mdvirlrzgJ1rle47qo1_r1_1280.jpg"
+	thumbURL="thumbs/tumblr_mdvirlrzgJ1rle47qo1_r1_1280.jpg"
+	linkURL="images/tumblr_mdvirlrzgJ1rle47qo1_r1_1280.jpg"
+	linkTarget="_blank"
+	sourcePath="/home/dasd/katiestclair/img/gallery/2007/tumblr_mdvirlrzgJ1rle47qo1_r1_1280.jpg">
+    <title><![CDATA[Rampion]]></title>
+    <caption><![CDATA[Acrylic and photo collage on board 60"x48"]]></caption>
+  </image>
+  <image imageURL="images/tumblr_mdvib78wgk1rle47qo1_1280.jpg"
+	thumbURL="thumbs/tumblr_mdvib78wgk1rle47qo1_1280.jpg"
+	linkURL="images/tumblr_mdvib78wgk1rle47qo1_1280.jpg"
+	linkTarget="_blank"
+	sourcePath="/home/dasd/katiestclair/img/gallery/2007/tumblr_mdvib78wgk1rle47qo1_1280.jpg">
+    <title><![CDATA[Cast upon a whim]]></title>
+    <caption><![CDATA[Acrylic and photo collage on board 30"x20"]]></caption>
+  </image>
+  <image imageURL="images/tumblr_mdvi77cGiv1rle47qo1_r1_1280.jpg"
+	thumbURL="thumbs/tumblr_mdvi77cGiv1rle47qo1_r1_1280.jpg"
+	linkURL="images/tumblr_mdvi77cGiv1rle47qo1_r1_1280.jpg"
+	linkTarget="_blank"
+	sourcePath="/home/dasd/katiestclair/img/gallery/2007/tumblr_mdvi77cGiv1rle47qo1_r1_1280.jpg">
+    <title><![CDATA[Once and Again]]></title>
+    <caption><![CDATA[Acrylic and photo collage on board 20"x22"]]></caption>
+  </image>
+  <image imageURL="images/tumblr_mdvi42i8Qm1rle47qo1_1280.jpg"
+	thumbURL="thumbs/tumblr_mdvi42i8Qm1rle47qo1_1280.jpg"
+	linkURL="images/tumblr_mdvi42i8Qm1rle47qo1_1280.jpg"
+	linkTarget="_blank"
+	sourcePath="/home/dasd/katiestclair/img/gallery/2007/tumblr_mdvi42i8Qm1rle47qo1_1280.jpg">
+    <title><![CDATA[Tale]]></title>
+    <caption><![CDATA[Acrylic and photo collage on board 20"x22"]]></caption>
+  </image>
+</juiceboxgallery>
