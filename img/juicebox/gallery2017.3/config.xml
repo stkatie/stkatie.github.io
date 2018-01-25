@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<juiceboxgallery 
+
+	resizeOnImport="false"
+	useFullscreenExpand="true"
+	galleryTitle="2017  Davidson College."
+	backgroundColor="rgba(0,0,0,1)"
+
+>
+  <image imageURL="images/tumblr_p26w3juo4y1rle47qo3_1280.jpg"
+	thumbURL="thumbs/tumblr_p26w3juo4y1rle47qo3_1280.jpg"
+	linkURL="images/tumblr_p26w3juo4y1rle47qo3_1280.jpg"
+	linkTarget="_blank"
+	sourcePath="/home/dasd/katiestclair/img/gallery/2017.3/tumblr_p26w3juo4y1rle47qo3_1280.jpg">
+    <title><![CDATA[Faculty Show.]]></title>
+    <caption><![CDATA[Wayside Installation.]]></caption>
+  </image>
+  <image imageURL="images/tumblr_p26w3juo4y1rle47qo1_1280.jpg"
+	thumbURL="thumbs/tumblr_p26w3juo4y1rle47qo1_1280.jpg"
+	linkURL="images/tumblr_p26w3juo4y1rle47qo1_1280.jpg"
+	linkTarget="_blank"
+	sourcePath="/home/dasd/katiestclair/img/gallery/2017.3/tumblr_p26w3juo4y1rle47qo1_1280.jpg">
+    <title><![CDATA[Faculty Show.]]></title>
+    <caption><![CDATA[Wayside Installation.]]></caption>
+  </image>
+  <image imageURL="images/tumblr_p26w3juo4y1rle47qo4_1280.jpg"
+	thumbURL="thumbs/tumblr_p26w3juo4y1rle47qo4_1280.jpg"
+	linkURL="images/tumblr_p26w3juo4y1rle47qo4_1280.jpg"
+	linkTarget="_blank"
+	sourcePath="/home/dasd/katiestclair/img/gallery/2017.3/tumblr_p26w3juo4y1rle47qo4_1280.jpg">
+    <title><![CDATA[Faculty Show.]]></title>
+    <caption><![CDATA[Wayside Installation.]]></caption>
+  </image>
+  <image imageURL="images/tumblr_p26w3juo4y1rle47qo5_1280.jpg"
+	thumbURL="thumbs/tumblr_p26w3juo4y1rle47qo5_1280.jpg"
+	linkURL="images/tumblr_p26w3juo4y1rle47qo5_1280.jpg"
+	linkTarget="_blank"
+	sourcePath="/home/dasd/katiestclair/img/gallery/2017.3/tumblr_p26w3juo4y1rle47qo5_1280.jpg">
+    <title><![CDATA[Faculty Show.]]></title>
+    <caption><![CDATA[Wayside Installation.]]></caption>
+  </image>
+  <image imageURL="images/tumblr_p26w3juo4y1rle47qo6_1280.jpg"
+	thumbURL="thumbs/tumblr_p26w3juo4y1rle47qo6_1280.jpg"
+	linkURL="images/tumblr_p26w3juo4y1rle47qo6_1280.jpg"
+	linkTarget="_blank"
+	sourcePath="/home/dasd/katiestclair/img/gallery/2017.3/tumblr_p26w3juo4y1rle47qo6_1280.jpg">
+    <title><![CDATA[Faculty Show.]]></title>
+    <caption><![CDATA[Wayside Installation.]]></caption>
+  </image>
+  <image imageURL="images/tumblr_p26w3juo4y1rle47qo7_1280.jpg"
+	thumbURL="thumbs/tumblr_p26w3juo4y1rle47qo7_1280.jpg"
+	linkURL="images/tumblr_p26w3juo4y1rle47qo7_1280.jpg"
+	linkTarget="_blank"
+	sourcePath="/home/dasd/katiestclair/img/gallery/2017.3/tumblr_p26w3juo4y1rle47qo7_1280.jpg">
+    <title><![CDATA[Faculty Show.]]></title>
+    <caption><![CDATA[Wayside Process Paintings.]]></caption>
+  </image>
+  <image imageURL="images/tumblr_p26w3juo4y1rle47qo8_1280.jpg"
+	thumbURL="thumbs/tumblr_p26w3juo4y1rle47qo8_1280.jpg"
+	linkURL="images/tumblr_p26w3juo4y1rle47qo8_1280.jpg"
+	linkTarget="_blank"
+	sourcePath="/home/dasd/katiestclair/img/gallery/2017.3/tumblr_p26w3juo4y1rle47qo8_1280.jpg">
+    <title><![CDATA[Faculty Show.]]></title>
+    <caption><![CDATA[Wayside Installation.]]></caption>
+  </image>
+  <image imageURL="images/tumblr_p26w3juo4y1rle47qo9_1280.jpg"
+	thumbURL="thumbs/tumblr_p26w3juo4y1rle47qo9_1280.jpg"
+	linkURL="images/tumblr_p26w3juo4y1rle47qo9_1280.jpg"
+	linkTarget="_blank"
+	sourcePath="/home/dasd/katiestclair/img/gallery/2017.3/tumblr_p26w3juo4y1rle47qo9_1280.jpg">
+    <title><![CDATA[Faculty Show.]]></title>
+    <caption><![CDATA[Wayside Installation.]]></caption>
+  </image>
+</juiceboxgallery>

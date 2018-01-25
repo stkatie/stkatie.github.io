@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<juiceboxgallery 
+
+	resizeOnImport="false"
+	galleryTitle="2017 Studio documentation"
+	useFullscreenExpand="true"
+	backgroundColor="rgba(0,0,0,1)"
+
+>
+  <image imageURL="images/tumblr_p26x5i2fUH1rle47qo1_1280.jpg"
+	thumbURL="thumbs/tumblr_p26x5i2fUH1rle47qo1_1280.jpg"
+	linkURL="images/tumblr_p26x5i2fUH1rle47qo1_1280.jpg"
+	linkTarget="_blank"
+	sourcePath="/home/dasd/katiestclair/img/gallery/2017/tumblr_p26x5i2fUH1rle47qo1_1280.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[Studio documentation and color reference]]></caption>
+  </image>
+  <image imageURL="images/tumblr_p26x5i2fUH1rle47qo2_1280.jpg"
+	thumbURL="thumbs/tumblr_p26x5i2fUH1rle47qo2_1280.jpg"
+	linkURL="images/tumblr_p26x5i2fUH1rle47qo2_1280.jpg"
+	linkTarget="_blank"
+	sourcePath="/home/dasd/katiestclair/img/gallery/2017/tumblr_p26x5i2fUH1rle47qo2_1280.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[Studio documentation and color reference]]></caption>
+  </image>
+  <image imageURL="images/tumblr_p26x5i2fUH1rle47qo3_1280.jpg"
+	thumbURL="thumbs/tumblr_p26x5i2fUH1rle47qo3_1280.jpg"
+	linkURL="images/tumblr_p26x5i2fUH1rle47qo3_1280.jpg"
+	linkTarget="_blank"
+	sourcePath="/home/dasd/katiestclair/img/gallery/2017/tumblr_p26x5i2fUH1rle47qo3_1280.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[Studio documentation and color reference]]></caption>
+  </image>
+</juiceboxgallery>
