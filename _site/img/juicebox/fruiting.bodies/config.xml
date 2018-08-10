@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<juiceboxgallery 
+
+	resizeOnImport="true"
+	cropToFit="false"
+	backgroundColor="rgba(0,0,0,1)"
+	useFullscreenExpand="true"
+	galleryTitle="Fruiting Bodies"
+
+>
+  <image imageURL="images/Amanita Pantherina.jpg"
+	thumbURL="thumbs/Amanita Pantherina.jpg"
+	linkURL="images/Amanita Pantherina.jpg"
+	linkTarget="_blank"
+	sourcePath="/home/dasd/katiestclair/img/gallery/Fruiting Bodies (most recent) /Amanita Pantherina.jpg">
+    <title><![CDATA[Amanita Pantherina]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Ambigua.jpg"
+	thumbURL="thumbs/Ambigua.jpg"
+	linkURL="images/Ambigua.jpg"
+	linkTarget="_blank"
+	sourcePath="/home/dasd/katiestclair/img/gallery/Fruiting Bodies (most recent) /Ambigua.jpg">
+    <title><![CDATA[Ambigua]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Baeospora.jpg"
+	thumbURL="thumbs/Baeospora.jpg"
+	linkURL="images/Baeospora.jpg"
+	linkTarget="_blank"
+	sourcePath="/home/dasd/katiestclair/img/gallery/Fruiting Bodies (most recent) /Baeospora.jpg">
+    <title><![CDATA[Baeospora]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Bearded Tooth.jpg"
+	thumbURL="thumbs/Bearded Tooth.jpg"
+	linkURL="images/Bearded Tooth.jpg"
+	linkTarget="_blank"
+	sourcePath="/home/dasd/katiestclair/img/gallery/Fruiting Bodies (most recent) /Bearded Tooth.jpg">
+    <title><![CDATA[Bearded Tooth]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Blewit.jpg"
+	thumbURL="thumbs/Blewit.jpg"
+	linkURL="images/Blewit.jpg"
+	linkTarget="_blank"
+	sourcePath="/home/dasd/katiestclair/img/gallery/Fruiting Bodies (most recent) /Blewit.jpg">
+    <title><![CDATA[Blewit]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Chaga.jpg"
+	thumbURL="thumbs/Chaga.jpg"
+	linkURL="images/Chaga.jpg"
+	linkTarget="_blank"
+	sourcePath="/home/dasd/katiestclair/img/gallery/Fruiting Bodies (most recent) /Chaga.jpg">
+    <title><![CDATA[Chaga]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Cortina.jpg"
+	thumbURL="thumbs/Cortina.jpg"
+	linkURL="images/Cortina.jpg"
+	linkTarget="_blank"
+	sourcePath="/home/dasd/katiestclair/img/gallery/Fruiting Bodies (most recent) /Cortina.jpg">
+    <title><![CDATA[Cortina]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Destroying Angel.jpg"
+	thumbURL="thumbs/Destroying Angel.jpg"
+	linkURL="images/Destroying Angel.jpg"
+	linkTarget="_blank"
+	sourcePath="/home/dasd/katiestclair/img/gallery/Fruiting Bodies (most recent) /Destroying Angel.jpg">
+    <title><![CDATA[Destroying Angel]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Earth Tongues.jpg"
+	thumbURL="thumbs/Earth Tongues.jpg"
+	linkURL="images/Earth Tongues.jpg"
+	linkTarget="_blank"
+	sourcePath="/home/dasd/katiestclair/img/gallery/Fruiting Bodies (most recent) /Earth Tongues.jpg">
+    <title><![CDATA[Earth Tongues]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Grayling.jpg"
+	thumbURL="thumbs/Grayling.jpg"
+	linkURL="images/Grayling.jpg"
+	linkTarget="_blank"
+	sourcePath="/home/dasd/katiestclair/img/gallery/Fruiting Bodies (most recent) /Grayling.jpg">
+    <title><![CDATA[Grayling]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Grisette.jpg"
+	thumbURL="thumbs/Grisette.jpg"
+	linkURL="images/Grisette.jpg"
+	linkTarget="_blank"
+	sourcePath="/home/dasd/katiestclair/img/gallery/Fruiting Bodies (most recent) /Grisette.jpg">
+    <title><![CDATA[Grisette]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Heart Rot.jpg"
+	thumbURL="thumbs/Heart Rot.jpg"
+	linkURL="images/Heart Rot.jpg"
+	linkTarget="_blank"
+	sourcePath="/home/dasd/katiestclair/img/gallery/Fruiting Bodies (most recent) /Heart Rot.jpg">
+    <title><![CDATA[Heart Rot]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Lucidum.jpg"
+	thumbURL="thumbs/Lucidum.jpg"
+	linkURL="images/Lucidum.jpg"
+	linkTarget="_blank"
+	sourcePath="/home/dasd/katiestclair/img/gallery/Fruiting Bodies (most recent) /Lucidum.jpg">
+    <title><![CDATA[Lucidum]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Mycena.jpg"
+	thumbURL="thumbs/Mycena.jpg"
+	linkURL="images/Mycena.jpg"
+	linkTarget="_blank"
+	sourcePath="/home/dasd/katiestclair/img/gallery/Fruiting Bodies (most recent) /Mycena.jpg">
+    <title><![CDATA[Mycena]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Phlebia.jpg"
+	thumbURL="thumbs/Phlebia.jpg"
+	linkURL="images/Phlebia.jpg"
+	linkTarget="_blank"
+	sourcePath="/home/dasd/katiestclair/img/gallery/Fruiting Bodies (most recent) /Phlebia.jpg">
+    <title><![CDATA[Phlebia]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Pholiota.jpg"
+	thumbURL="thumbs/Pholiota.jpg"
+	linkURL="images/Pholiota.jpg"
+	linkTarget="_blank"
+	sourcePath="/home/dasd/katiestclair/img/gallery/Fruiting Bodies (most recent) /Pholiota.jpg">
+    <title><![CDATA[Pholiota]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Poria.jpg"
+	thumbURL="thumbs/Poria.jpg"
+	linkURL="images/Poria.jpg"
+	linkTarget="_blank"
+	sourcePath="/home/dasd/katiestclair/img/gallery/Fruiting Bodies (most recent) /Poria.jpg">
+    <title><![CDATA[Poria]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Red Juice Milky-Cap.jpg"
+	thumbURL="thumbs/Red Juice Milky-Cap.jpg"
+	linkURL="images/Red Juice Milky-Cap.jpg"
+	linkTarget="_blank"
+	sourcePath="/home/dasd/katiestclair/img/gallery/Fruiting Bodies (most recent) /Red Juice Milky-Cap.jpg">
+    <title><![CDATA[Red Juice Milky-Cap]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Tsugae.jpg"
+	thumbURL="thumbs/Tsugae.jpg"
+	linkURL="images/Tsugae.jpg"
+	linkTarget="_blank"
+	sourcePath="/home/dasd/katiestclair/img/gallery/Fruiting Bodies (most recent) /Tsugae.jpg">
+    <title><![CDATA[Tsugae]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Versicolor.jpg"
+	thumbURL="thumbs/Versicolor.jpg"
+	linkURL="images/Versicolor.jpg"
+	linkTarget="_blank"
+	sourcePath="/home/dasd/katiestclair/img/gallery/Fruiting Bodies (most recent) /Versicolor.jpg">
+    <title><![CDATA[Versicolor]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Vulgaris.jpg"
+	thumbURL="thumbs/Vulgaris.jpg"
+	linkURL="images/Vulgaris.jpg"
+	linkTarget="_blank"
+	sourcePath="/home/dasd/katiestclair/img/gallery/Fruiting Bodies (most recent) /Vulgaris.jpg">
+    <title><![CDATA[Vulgaris]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+</juiceboxgallery>
