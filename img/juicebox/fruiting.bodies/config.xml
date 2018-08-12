@@ -9,6 +9,14 @@
 	galleryTitle="Fruiting Bodies"
 
 >
+  <image imageURL="images/Destroying Angel.jpg"
+	thumbURL="thumbs/Destroying Angel.jpg"
+	linkURL="images/Destroying Angel.jpg"
+	linkTarget="_blank"
+	sourcePath="/home/dasd/katiestclair/img/gallery/Fruiting Bodies (most recent) /Destroying Angel.jpg">
+    <title><![CDATA[Destroying Angel]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
   <image imageURL="images/Amanita Pantherina.jpg"
 	thumbURL="thumbs/Amanita Pantherina.jpg"
 	linkURL="images/Amanita Pantherina.jpg"
@@ -63,14 +71,6 @@
 	linkTarget="_blank"
 	sourcePath="/home/dasd/katiestclair/img/gallery/Fruiting Bodies (most recent) /Cortina.jpg">
     <title><![CDATA[Cortina]]></title>
-    <caption><![CDATA[]]></caption>
-  </image>
-  <image imageURL="images/Destroying Angel.jpg"
-	thumbURL="thumbs/Destroying Angel.jpg"
-	linkURL="images/Destroying Angel.jpg"
-	linkTarget="_blank"
-	sourcePath="/home/dasd/katiestclair/img/gallery/Fruiting Bodies (most recent) /Destroying Angel.jpg">
-    <title><![CDATA[Destroying Angel]]></title>
     <caption><![CDATA[]]></caption>
   </image>
   <image imageURL="images/Earth Tongues.jpg"

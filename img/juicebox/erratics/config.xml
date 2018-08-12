@@ -7,6 +7,14 @@
 	useFullscreenExpand="true"
 
 >
+  <image imageURL="images/Swale.jpg"
+	thumbURL="thumbs/Swale.jpg"
+	linkURL="images/Swale.jpg"
+	linkTarget="_blank"
+	sourcePath="/home/dasd/katiestclair/img/gallery/Erratics (less recent) /Erratics/Swale.jpg">
+    <title><![CDATA[Swale]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
   <image imageURL="images/Angle of Repose.jpg"
 	thumbURL="thumbs/Angle of Repose.jpg"
 	linkURL="images/Angle of Repose.jpg"
@@ -45,14 +53,6 @@
 	linkTarget="_blank"
 	sourcePath="/home/dasd/katiestclair/img/gallery/Erratics (less recent) /Erratics/Scree.jpg">
     <title><![CDATA[Scree]]></title>
-    <caption><![CDATA[]]></caption>
-  </image>
-  <image imageURL="images/Swale.jpg"
-	thumbURL="thumbs/Swale.jpg"
-	linkURL="images/Swale.jpg"
-	linkTarget="_blank"
-	sourcePath="/home/dasd/katiestclair/img/gallery/Erratics (less recent) /Erratics/Swale.jpg">
-    <title><![CDATA[Swale]]></title>
     <caption><![CDATA[]]></caption>
   </image>
 </juiceboxgallery>

@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<juiceboxgallery 
+
+	maxImageWidth="1280"
+	maxImageHeight="1024"
+	backgroundColor="rgba(0,0,0,1)"
+	useFullscreenExpand="true"
+	galleryTitle="Erratic Studies"
+
+>
+  <image imageURL="images/tumblr_p26x5i2fUH1rle47qo1_1280.jpg"
+	thumbURL="thumbs/tumblr_p26x5i2fUH1rle47qo1_1280.jpg"
+	linkURL="images/tumblr_p26x5i2fUH1rle47qo1_1280.jpg"
+	linkTarget="_blank"
+	sourcePath="/home/dasd/katiestclair/img/juicebox/gallery2017.1/images/tumblr_p26x5i2fUH1rle47qo1_1280.jpg">
+    <title><![CDATA[Erratic studies]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Study 1.jpg"
+	thumbURL="thumbs/Study 1.jpg"
+	linkURL="images/Study 1.jpg"
+	linkTarget="_blank"
+	sourcePath="/home/dasd/katiestclair.art/Erratic Study/Study 1.jpg">
+    <title><![CDATA[Study 1]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Study 2.jpg"
+	thumbURL="thumbs/Study 2.jpg"
+	linkURL="images/Study 2.jpg"
+	linkTarget="_blank"
+	sourcePath="/home/dasd/katiestclair.art/Erratic Study/Study 2.jpg">
+    <title><![CDATA[Study 2]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Study 3.jpg"
+	thumbURL="thumbs/Study 3.jpg"
+	linkURL="images/Study 3.jpg"
+	linkTarget="_blank"
+	sourcePath="/home/dasd/katiestclair.art/Erratic Study/Study 3.jpg">
+    <title><![CDATA[Study 3]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Study 4.jpg"
+	thumbURL="thumbs/Study 4.jpg"
+	linkURL="images/Study 4.jpg"
+	linkTarget="_blank"
+	sourcePath="/home/dasd/katiestclair.art/Erratic Study/Study 4.jpg">
+    <title><![CDATA[Study 4]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Study 5.jpg"
+	thumbURL="thumbs/Study 5.jpg"
+	linkURL="images/Study 5.jpg"
+	linkTarget="_blank"
+	sourcePath="/home/dasd/katiestclair.art/Erratic Study/Study 5.jpg">
+    <title><![CDATA[Study 5]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Study 6.jpg"
+	thumbURL="thumbs/Study 6.jpg"
+	linkURL="images/Study 6.jpg"
+	linkTarget="_blank"
+	sourcePath="/home/dasd/katiestclair.art/Erratic Study/Study 6.jpg">
+    <title><![CDATA[Study 6]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Study 7.jpg"
+	thumbURL="thumbs/Study 7.jpg"
+	linkURL="images/Study 7.jpg"
+	linkTarget="_blank"
+	sourcePath="/home/dasd/katiestclair.art/Erratic Study/Study 7.jpg">
+    <title><![CDATA[Study 7]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Study 8.jpg"
+	thumbURL="thumbs/Study 8.jpg"
+	linkURL="images/Study 8.jpg"
+	linkTarget="_blank"
+	sourcePath="/home/dasd/katiestclair.art/Erratic Study/Study 8.jpg">
+    <title><![CDATA[Study 8]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Study 9.jpg"
+	thumbURL="thumbs/Study 9.jpg"
+	linkURL="images/Study 9.jpg"
+	linkTarget="_blank"
+	sourcePath="/home/dasd/katiestclair.art/Erratic Study/Study 9.jpg">
+    <title><![CDATA[Study 9]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Study 10.jpg"
+	thumbURL="thumbs/Study 10.jpg"
+	linkURL="images/Study 10.jpg"
+	linkTarget="_blank"
+	sourcePath="/home/dasd/katiestclair.art/Erratic Study/Study 10.jpg">
+    <title><![CDATA[Study 10]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/XStudy 11.jpg"
+	thumbURL="thumbs/XStudy 11.jpg"
+	linkURL="images/XStudy 11.jpg"
+	linkTarget="_blank"
+	sourcePath="/home/dasd/katiestclair.art/Erratic Study/XStudy 11.jpg">
+    <title><![CDATA[XStudy 11]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/XStudy 12.jpg"
+	thumbURL="thumbs/XStudy 12.jpg"
+	linkURL="images/XStudy 12.jpg"
+	linkTarget="_blank"
+	sourcePath="/home/dasd/katiestclair.art/Erratic Study/XStudy 12.jpg">
+    <title><![CDATA[XStudy 12]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/XStudy 13.jpg"
+	thumbURL="thumbs/XStudy 13.jpg"
+	linkURL="images/XStudy 13.jpg"
+	linkTarget="_blank"
+	sourcePath="/home/dasd/katiestclair.art/Erratic Study/XStudy 13.jpg">
+    <title><![CDATA[XStudy 13]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/XStudy 14.jpg"
+	thumbURL="thumbs/XStudy 14.jpg"
+	linkURL="images/XStudy 14.jpg"
+	linkTarget="_blank"
+	sourcePath="/home/dasd/katiestclair.art/Erratic Study/XStudy 14.jpg">
+    <title><![CDATA[XStudy 14]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+</juiceboxgallery>
