@@ -7,6 +7,7 @@
 	backgroundColor="rgba(0,0,0,1)"
 	useFullscreenExpand="true"
 	galleryTitle="Erratic Studies"
+	textColor="rgba(51,51,51,1)"
 
 >
   <image imageURL="images/tumblr_p26x5i2fUH1rle47qo1_1280.jpg"
@@ -23,7 +24,7 @@
 	linkTarget="_blank"
 	sourcePath="/home/dasd/katiestclair.art/Erratic Study/Study 1.jpg">
     <title><![CDATA[Study 1]]></title>
-    <caption><![CDATA[]]></caption>
+    <caption><![CDATA[2016. Acrylic, whiteout, gesso and ballpoint pen on paper, artwork 4”x 3 1⁄2”, frame 16”x 12”.]]></caption>
   </image>
   <image imageURL="images/Study 2.jpg"
 	thumbURL="thumbs/Study 2.jpg"
@@ -31,7 +32,7 @@
 	linkTarget="_blank"
 	sourcePath="/home/dasd/katiestclair.art/Erratic Study/Study 2.jpg">
     <title><![CDATA[Study 2]]></title>
-    <caption><![CDATA[]]></caption>
+    <caption><![CDATA[2016. Acrylic, whiteout, gesso and ballpoint pen on paper, artwork 4”x 3 1⁄2”, frame 16”x 12”.]]></caption>
   </image>
   <image imageURL="images/Study 3.jpg"
 	thumbURL="thumbs/Study 3.jpg"
@@ -39,7 +40,7 @@
 	linkTarget="_blank"
 	sourcePath="/home/dasd/katiestclair.art/Erratic Study/Study 3.jpg">
     <title><![CDATA[Study 3]]></title>
-    <caption><![CDATA[]]></caption>
+    <caption><![CDATA[2016. Acrylic, whiteout, gesso and ballpoint pen on paper, artwork 4”x 3 1⁄2”, frame 16”x 12”.]]></caption>
   </image>
   <image imageURL="images/Study 4.jpg"
 	thumbURL="thumbs/Study 4.jpg"
@@ -47,7 +48,7 @@
 	linkTarget="_blank"
 	sourcePath="/home/dasd/katiestclair.art/Erratic Study/Study 4.jpg">
     <title><![CDATA[Study 4]]></title>
-    <caption><![CDATA[]]></caption>
+    <caption><![CDATA[2016. Acrylic, whiteout, gesso and ballpoint pen on paper, artwork 4”x 3 1⁄2”, frame 16”x 12”.]]></caption>
   </image>
   <image imageURL="images/Study 5.jpg"
 	thumbURL="thumbs/Study 5.jpg"
@@ -55,7 +56,7 @@
 	linkTarget="_blank"
 	sourcePath="/home/dasd/katiestclair.art/Erratic Study/Study 5.jpg">
     <title><![CDATA[Study 5]]></title>
-    <caption><![CDATA[]]></caption>
+    <caption><![CDATA[2016. Acrylic, whiteout, gesso and ballpoint pen on paper, artwork 4”x 3 1⁄2”, frame 16”x 12”.]]></caption>
   </image>
   <image imageURL="images/Study 6.jpg"
 	thumbURL="thumbs/Study 6.jpg"
@@ -63,7 +64,7 @@
 	linkTarget="_blank"
 	sourcePath="/home/dasd/katiestclair.art/Erratic Study/Study 6.jpg">
     <title><![CDATA[Study 6]]></title>
-    <caption><![CDATA[]]></caption>
+    <caption><![CDATA[2016. Acrylic, whiteout, gesso and ballpoint pen on paper, artwork 4”x 3 1⁄2”, frame 16”x 12”.]]></caption>
   </image>
   <image imageURL="images/Study 7.jpg"
 	thumbURL="thumbs/Study 7.jpg"
@@ -71,7 +72,7 @@
 	linkTarget="_blank"
 	sourcePath="/home/dasd/katiestclair.art/Erratic Study/Study 7.jpg">
     <title><![CDATA[Study 7]]></title>
-    <caption><![CDATA[]]></caption>
+    <caption><![CDATA[2016. Acrylic, whiteout, gesso and ballpoint pen on paper, artwork 4” x3 1⁄2”, frame 16”x 12”.]]></caption>
   </image>
   <image imageURL="images/Study 8.jpg"
 	thumbURL="thumbs/Study 8.jpg"
@@ -79,7 +80,7 @@
 	linkTarget="_blank"
 	sourcePath="/home/dasd/katiestclair.art/Erratic Study/Study 8.jpg">
     <title><![CDATA[Study 8]]></title>
-    <caption><![CDATA[]]></caption>
+    <caption><![CDATA[2016. Acrylic, whiteout, gesso and ballpoint pen on paper, artwork 4” x3 1⁄2”, frame 16”x 12”.]]></caption>
   </image>
   <image imageURL="images/Study 9.jpg"
 	thumbURL="thumbs/Study 9.jpg"
@@ -87,7 +88,7 @@
 	linkTarget="_blank"
 	sourcePath="/home/dasd/katiestclair.art/Erratic Study/Study 9.jpg">
     <title><![CDATA[Study 9]]></title>
-    <caption><![CDATA[]]></caption>
+    <caption><![CDATA[2016. Acrylic, whiteout, gesso and ballpoint pen on paper, artwork 4”x 3 1⁄2”, frame 16”x 12”.]]></caption>
   </image>
   <image imageURL="images/Study 10.jpg"
 	thumbURL="thumbs/Study 10.jpg"
@@ -95,7 +96,7 @@
 	linkTarget="_blank"
 	sourcePath="/home/dasd/katiestclair.art/Erratic Study/Study 10.jpg">
     <title><![CDATA[Study 10]]></title>
-    <caption><![CDATA[]]></caption>
+    <caption><![CDATA[2016. Acrylic, whiteout, gesso and ballpoint pen on paper, artwork 4”x 3 1⁄2”, frame 16”x 12”.]]></caption>
   </image>
   <image imageURL="images/XStudy 11.jpg"
 	thumbURL="thumbs/XStudy 11.jpg"

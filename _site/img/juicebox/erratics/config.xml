@@ -5,6 +5,8 @@
 	galleryTitle="Erratics"
 	backgroundColor="rgba(0,0,0,1)"
 	useFullscreenExpand="true"
+	maxImageWidth="1280"
+	maxImageHeight="1024"
 
 >
   <image imageURL="images/Swale.jpg"
@@ -13,7 +15,7 @@
 	linkTarget="_blank"
 	sourcePath="/home/dasd/katiestclair/img/gallery/Erratics (less recent) /Erratics/Swale.jpg">
     <title><![CDATA[Swale]]></title>
-    <caption><![CDATA[]]></caption>
+    <caption><![CDATA[2016, Acrylic, collage and an assortment of experimental techniques with dye,loose pigment, graphite, spray paint, gesso and rice paper on canvas, 64"x 56".]]></caption>
   </image>
   <image imageURL="images/Angle of Repose.jpg"
 	thumbURL="thumbs/Angle of Repose.jpg"
@@ -21,7 +23,7 @@
 	linkTarget="_blank"
 	sourcePath="/home/dasd/katiestclair/img/gallery/Erratics (less recent) /Erratics/Angle of Repose.JPG">
     <title><![CDATA[Angle of Repose]]></title>
-    <caption><![CDATA[]]></caption>
+    <caption><![CDATA[2016, Acrylic, collage and an assortment of experimental techniqueswith dye, loose pigment, graphite, spray paint, gesso and rice paper on canvas, 54” x 48”.]]></caption>
   </image>
   <image imageURL="images/Evanescent.jpg"
 	thumbURL="thumbs/Evanescent.jpg"
@@ -37,7 +39,7 @@
 	linkTarget="_blank"
 	sourcePath="/home/dasd/katiestclair/img/gallery/Erratics (less recent) /Erratics/Morane.png">
     <title><![CDATA[Morane]]></title>
-    <caption><![CDATA[]]></caption>
+    <caption><![CDATA[2017, Acrylic, collage and an assortment of experimentaltechniques with dye, loosepigment, spray paint, gesso and rice paper on canvas, 60”x 144".]]></caption>
   </image>
   <image imageURL="images/Permafrost.jpg"
 	thumbURL="thumbs/Permafrost.jpg"
@@ -45,14 +47,14 @@
 	linkTarget="_blank"
 	sourcePath="/home/dasd/katiestclair/img/gallery/Erratics (less recent) /Erratics/Permafrost.jpg">
     <title><![CDATA[Permafrost]]></title>
-    <caption><![CDATA[]]></caption>
+    <caption><![CDATA[2016, Acrylic, collage and an assortment of experimental techniques withdye, loose pigment, graphite, spray paint, gesso and rice paper on canvas, 48” x 40”.]]></caption>
   </image>
   <image imageURL="images/Scree.jpg"
 	thumbURL="thumbs/Scree.jpg"
 	linkURL="images/Scree.jpg"
 	linkTarget="_blank"
-	sourcePath="/home/dasd/katiestclair/img/gallery/Erratics (less recent) /Erratics/Scree.jpg">
+	sourcePath="/home/dasd/katiestclair/img/gallery/Erratics (less recent) /Erratics/Scree.png">
     <title><![CDATA[Scree]]></title>
-    <caption><![CDATA[]]></caption>
+    <caption><![CDATA[2016 Acrylic, collage and an assortment of experimental techniques withdye, loose pigment, graphite, spray paint, gesso and rice paper on canvas, 58”x70”.]]></caption>
   </image>
 </juiceboxgallery>
