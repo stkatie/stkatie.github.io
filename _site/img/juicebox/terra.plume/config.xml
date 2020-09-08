@@ -6,6 +6,14 @@
 	galleryTitle="Terra Plume"
 
 >
+  <image imageURL="images/Earth Tongues 56_x64_.jpg"
+	thumbURL="thumbs/Earth Tongues 56_x64_.jpg"
+	linkURL="images/Earth Tongues 56_x64_.jpg"
+	linkTarget="_blank"
+	sourcePath="/home/dasd/katiestclair/img/gallery/Terra Plume Paintings /Earth Tongues 56_x64_.jpg">
+    <title><![CDATA[Earth Tongues 56"x64"]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
   <image imageURL="images/Entoloma, 56_x64_ (opening Image) .jpg"
 	thumbURL="thumbs/Entoloma, 56_x64_ (opening Image) .jpg"
 	linkURL="images/Entoloma, 56_x64_ (opening Image) .jpg"
@@ -78,12 +86,12 @@
     <title><![CDATA[Cryptic Bonnet, 30"x 30"]]></title>
     <caption><![CDATA[2020, Acrylic, collage and an assortment of experimental techniques with dye, loose pigment, spraypaint, gesso and rice paper on canvas.]]></caption>
   </image>
-  <image imageURL="images/Earth Tongues 56_x64_.jpg"
-	thumbURL="thumbs/Earth Tongues 56_x64_.jpg"
-	linkURL="images/Earth Tongues 56_x64_.jpg"
+  <image imageURL="images/Bitter Poisonpie, 30_x 30_.jpg"
+	thumbURL="thumbs/Bitter Poisonpie, 30_x 30_.jpg"
+	linkURL="images/Bitter Poisonpie, 30_x 30_.jpg"
 	linkTarget="_blank"
-	sourcePath="/home/dasd/katiestclair/img/gallery/Terra Plume Paintings /Earth Tongues 56_x64_.jpg">
-    <title><![CDATA[Earth Tongues 56"x64"]]></title>
+	sourcePath="/home/dasd/katiestclair/img/gallery/Terra Plume Paintings /Bitter Poisonpie, 30_x 30_.jpg">
+    <title><![CDATA[Bitter Poisonpie, 30_x 30_]]></title>
     <caption><![CDATA[]]></caption>
   </image>
 </juiceboxgallery>
