@@ -4,19 +4,20 @@
 
 	galleryTitle="Waterlogged Series"
 	useFullscreenExpand="true"
-	resizeOnImport="true"
+	resizeOnImport="false"
 	textColor="rgba(255,255,255,1)"
 	backgroundColor="rgba(0,0,0,1)"
 	useThumbDots="false"
+	cropToFit="false"
 
 >
-  <image imageURL="images/Waterlogged (green).jpg"
-	thumbURL="thumbs/Waterlogged (green).jpg"
-	linkURL="images/Waterlogged (green).jpg"
+  <image imageURL="images/waterlogged_1.jpg"
+	thumbURL="thumbs/waterlogged_1.jpg"
+	linkURL="Acrylic, collage and an assortment of experimental techniques with dye, loose pigment, spray paint, gesso and rice paper on canvas stretched over wood, 36” round."
 	linkTarget="_blank"
-	sourcePath="/home/dasd/katiestclair/img/gallery/waterlogged.quality/Waterlogged (green).jpg">
+	sourcePath="/home/dasd/katiestclair/img/gallery/Squared/waterlogged_1.png">
     <title><![CDATA[Waterlogged (green)]]></title>
-    <caption><![CDATA[Acrylic, collage and an assortment of experimental techniques with dye, loose pigment, spray paint, gesso and rice paper on canvas stretched over wood, 36” round.]]></caption>
+    <caption><![CDATA[]]></caption>
   </image>
   <image imageURL="images/tumblr_neh44zFzFm1rle47qo2_1280.jpg"
 	thumbURL="thumbs/tumblr_neh44zFzFm1rle47qo2_1280.jpg"
